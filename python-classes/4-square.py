@@ -3,7 +3,9 @@
 
 
 class Square:
-    """Class that defines a square with size, area calculation, and printing."""
+    """Class that defines a square with size, area calculation,
+    and printing method.
+    """
 
     def __init__(self, size=0):
         """Initializes the square with a given size.
