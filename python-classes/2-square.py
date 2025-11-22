@@ -1,9 +1,13 @@
 #!/usr/bin/python3
-"""Module that defines a Square class with size validation and area computation."""
+"""Module that defines a Square class with size validation
+and area computation.
+"""
 
 
 class Square:
-    """Class that defines a square by its size and provides area computation."""
+    """Class that defines a square by its size and
+    provides area computation.
+    """
 
     def __init__(self, size=0):
         """Initializes the square with a given size.
